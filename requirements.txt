@@ -1,0 +1,10 @@
+# Based on the actual imports in CNN_code.ipynb.
+# Pin versions to match your environment with `pip freeze` if you want exact reproducibility.
+tensorflow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+requests
+jupyter

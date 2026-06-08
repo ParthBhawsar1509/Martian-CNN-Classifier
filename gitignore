@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Saved models / large artefacts
+*.h5
+*.keras
+*.ckpt
+*.pkl
+
+# Data (download from NASA, don't commit)
+*.zip
+*.csv
+*.npy
+*.npz
+data/
+images/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
